@@ -55,7 +55,7 @@
   - Kota: Bandung
 - Sendy Aditya Suryana <sendzation@gmail.com> (Sendy)
   - Telegram: SENDYYeah
-  - Kunci Publik GPG: `23BB8A15E666424ABF6531876280B6C90D6795CE``
+  - Kunci Publik GPG: `23BB8A15E666424ABF6531876280B6C90D6795CE`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIr8pCFTEulMN8chtuX0NiDS6qkY24+Pstt3hlHDOQjU sendzation@gmail.com`
   - Kota: Sleman, DIY
 
