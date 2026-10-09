@@ -1,4 +1,4 @@
-# Core Contributor
+# Contributor
 
 ## Infrastructure
 
