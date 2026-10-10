@@ -61,6 +61,11 @@
   - Kunci Publik GPG: `DF8B774832073DA40F8C4793A4016086E1F232BA`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAP9XbkfIKNuRvbrtLUhQR+nsKi2QOZL/ABbvX1AedO/ mandexx@wearehackerone.com`
   - Kota: Mataram, NTB
+- Yudhistira Wardhana <yudhistira.wardhana@gmail.com> (Yudhis)
+  - Telegram: ydhstraw
+  - Kunci Publik GPG: `1828079D43A4D908FBDD512DA7F60F198F41AC96`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMRQD3rs1jpS5YPlx5a51J6yAlYonTPN1ghip5qqi2VP yudhistira.wardhana@gmail.com`
+  - Kota: Tangerang Selatan
 
 ## Documentation
 
